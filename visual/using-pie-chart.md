@@ -7,7 +7,7 @@ Pie charts effectively show the proportions of data. When we want to understand 
 
 ## Example 1 
 
-In this example, we will be using a source called **Stationary Sales**. This can be found in [sample-data](sample-data/giant-101).
+For this example, we will be using a source called **Stationary Sales**. This can be found in [sample-data](sample-data/giant-101).
 
 ![data](images/giant-101-piechart/data-structure.PNG)
 
