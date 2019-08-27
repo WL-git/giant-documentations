@@ -16,7 +16,7 @@ Sankey diagram displays the data flows and the respective quantities. This chart
 Sample data download [here](./sample-data/sankey-diagram/annual-finances-of-a-married-couple-color.xlsx).
 
 ### Diagram Sort Order
-There are three options for this configuration which are *None*, *Name*, *Value*. The default option is *Value*.
+There are 3 options for this configuration which are *None*, *Name*, *Value*. The default option is *Value*.
 - None: Arrange the node based on the arrangement in the data source.
 - Name: Arrange the node in ascending alphabetical order.
 - Value: Arrange the node in ascending *actual* value.
