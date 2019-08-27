@@ -1,0 +1,21 @@
+## GIANT's Built-In Functions
+
+**Unique** - Counts the distinct values within the column chosen. For example, if the data contains multiple names, it only takes into account a unique name once. This is particularly useful when wanting to know how many unique users exist in the consumer base.
+
+**Count** - Counts the number of rows within a column.
+
+**Maximum** - Takes the maximum value within a column.
+
+**Minimum** - Takes the minimum value within a column.
+
+**Sum** - Sums the numeric values within a column.
+
+**Average** - Takes the average value within a column.
+
+**None** - Does not affect the column. Used when the current data is already aggregated.
+
+**Group By** - Used to look at the data within different groups of the data. For example: **Sales by Store ID for different Age Groups**.
+
+**Sort** - Sorts the data in Ascending/Descending order depending on the data type.
+
+**Filter** - Allows choosing columns within the table to filter specific criteria for the data.
