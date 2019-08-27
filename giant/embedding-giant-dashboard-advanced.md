@@ -6,6 +6,8 @@ When you have a dashboard that showcases the sales from the same company within 
 
 ## Filtering by region
 
+(Add a step here - click on the three horizontal lines, then click the embed icon.)
+
 Proceed with Advanced embedding by clicking on the **Proceed to Advanced Embed Configuration** button.
 
 ![Step1-advanced](images/embedding-giant-advanced-dashboard/advanced-embed-1.png)
